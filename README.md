@@ -1,1 +1,1 @@
-# DID-Service
+# DID-Registry
